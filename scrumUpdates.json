@@ -1,0 +1,53 @@
+{
+  "scrum_key": [
+    "Genesis",
+    "Practice",
+    "Kaizen",
+    "Biltz",
+    "Aviator"
+  ],
+  "scrum_data": [
+    {
+      "id": 2,
+      "name": "Neha",
+      "comment": "Yesterday I have worked on creating project structure for scurm updates and today I will continue on the same.",
+      "date": "25-12-2020"
+    },
+    {
+      "id": 3,
+      "name": "Vishwas",
+      "comment": "Yesterday I have worked on Genesis sprint work. Today I will continue on the same.",
+      "date": "24-12-2020"
+    },
+    {
+      "id": 5,
+      "name": "Ashok",
+      "comment": "Yesterday I have worked on Kaizen sprint work. Today I will spend time on care note changes.",
+      "date": "24-12-2020"
+    },
+    {
+      "id": 6,
+      "name": "Alisha",
+      "comment": "Yesterday I was on leave and Today I will pick up something from backlog.",
+      "date": "24-12-2020"
+    },
+    {
+      "id": 7,
+      "name": "Neha",
+      "comment": "test comment",
+      "date": "27-12-2020"
+    },
+    {
+      "id": 8,
+      "name": "neha",
+      "comment": "Test comment 2",
+      "date": "27-12-2020"
+    },
+    {
+      "id": 9,
+      "name": "Alisha",
+      "comment": "Working on hotfix.",
+      "date": "28-12-2020"
+    }
+  ]
+}

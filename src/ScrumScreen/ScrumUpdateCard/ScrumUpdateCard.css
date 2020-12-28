@@ -1,0 +1,13 @@
+.updateCard{
+    width:100%;
+    margin-bottom: 1em;
+}
+
+.pi-trash{
+    color:red;
+    float:right;
+}
+
+.p-card .p-card-body{
+    padding:0.2em !important
+}

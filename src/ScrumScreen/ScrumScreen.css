@@ -1,0 +1,44 @@
+.panels {
+  border-right: 2px solid gray;
+  height: 34em;
+  text-align: center;
+}
+
+.p-datepicker table td > span {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  color: white;
+  height: 16%;
+  border-top: 2px solid gray;
+  padding-top: 0.5em;
+  width:100%
+}
+
+.userKey {
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 0.5em;
+}
+
+.userName {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.header {
+  overflow: auto;
+  height: 28em;
+}
+
+.footer .p-inputtext {
+    width: 65%;
+}
+
+.submitScrumButton{
+    margin-left: 2em
+}

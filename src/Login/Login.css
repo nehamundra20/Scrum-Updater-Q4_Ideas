@@ -1,0 +1,20 @@
+.fieldDiv{
+    display: flex;
+    margin-top: 2em;
+}
+
+.fieldDiv label{
+    width:50%;
+    text-align: right;
+    padding: 0.5em 1em 0.5em;
+    font-size: 17px;
+}
+
+.submitButton{
+    text-align: center;
+    padding:3em
+}
+
+.p-dropdown{
+    width:12em !important;
+}
